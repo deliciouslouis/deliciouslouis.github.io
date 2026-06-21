@@ -1,0 +1,112 @@
+---
+title: "No Ghost Lemurs: Short Story about AI"
+---
+
+Every time he graded something in the last five or six years his thoughts returned, as they often did, to lemurs. It was triggered especially by essays. He had been reading them, fifty-seven of them this semester, stacked on a corner of the kitchen table where he had been working since after dinner and had noticed, with a specific quality of dread, that they were again fluent and empty. A smoothness with no texture underneath it, no error, no wrong turn taken and recovered from, no sentence that should not have been written.
+
+Unconsciously, he ran his hand over the lower half of his face. He couldn’t focus seriously enough to grade these. He could not bring himself to care. He knew what they were. He had said so, in the department, at some length to general impatience. The impatience itself was a symptom. He had noted this also, to further impatience. He could not comprehend how a catastrophe of such magnitude was being allowed to take place. What did those involved in building it think of their work? Did they not see what was happening? Did they imagine the fluency was the point?
+
+She was sitting across from him at the table, her phone held at the specific angle she always held it, slightly tilted, her face doing almost nothing. The quiet sounds of TikToks playing created the ambiance. She was home for the weekend. He was grateful for this… even now.
+
+“It’s a loop,” he said. “That’s the whole problem. That’s all it is.”
+
+She did not look up.
+
+“Data in, prediction out, error measured, parameters corrected. Repeat. This is just how machine learning works. The goal is to minimize difference… Do you understand what that means? The ideal outcome is a perfect repetition. They have built an enormous machine whose entire purpose is to eliminate novelty, and my students are using it to think.”
+
+“Hmm,” she said. She scrolled, her thumb moving with the small, practiced efficiency of someone performing a task they had long since stopped registering as a task.
+
+“Deleuze argues, and I think correctly… though I know you find that name annoying… that difference should not be seen as secondary to repetition. Difference is not the error to be eliminated. Difference is where everything happens. Identity itself is a product of underlying differences. A perfect loop adds nothing. It returns what you started with and people are calling it intelligence.”
+
+There was a pause.
+
+“I’m not saying this to be difficult,” he said, suddenly a little too self-aware.
+
+“I know.”
+
+“I’m saying it because it matters and nobody seems to think so.”
+
+“It matters,” she said, in a tone that did not confirm this.
+
+He set down his pen and the essays. This was, she knew, a sign that things were about to get worse.
+
+“Have you read Burroughs?”
+
+“Which one?”
+
+“The Ghost Lemurs of Madagascar… It’s a short story. A seventeenth-century pirate named Captain Mission establishes a utopian colony on Madagascar. Complete equality, democratic constitution, freed slaves, renegade sailors… and there’s an article in the constitution protecting the native lemurs. Lemurs means ghost in the native language, and killing one would get you kicked out of the colony.”
+
+“Ok.”
+
+“Mission goes into the forest looking for bigger lemurs. Ones the natives call Big Ghosts. You should know that there’s actually evidence of giant lemurs, like, gorilla-sized ones, who used to live in Madagascar only a thousand-ish years before humans… They’re called Archaeoindris. Anyways, he finds this stone structure and in the basement there are these animals unlike anything in any taxonomy. One of them puts its paw on his face and he is flooded with memories of an… ancient betrayal.” He says this last part cautiously, as if scared of sounding too arcane.
+
+“An ancient betrayal…?” She repeated not unkindly but nevertheless amused, just verifying that she had heard correctly.
+
+“Yes. He runs back to the settlement. A man named Bradly Martin has shot a lemur, Mission banishes him. In the morning, the lemur is gone and Captain Mission realizes that Bradly Martin has taken the body to the natives and told them that the settlers were the ones killing them. The colony collapses as the natives take revenge on the settlers…” He pauses for a second, trying to retain as much accuracy to the original quote as he could. He takes his glasses off.
+
+“Burroughs says that: In a prerecorded and therefore totally predictable universe, the blackest sin is to tamper with the prerecordings. Mission had shown that three hundred people could coexist peacefully with each other and with the natural world. In a muted, ghostly room, the custodians of the future convened. They didn’t want it changed.”
+
+“Custodians of the future,” she repeated.
+
+“The Board. An organization devoted to enforcing linear time and a single, centralized reality…The CCRU, maybe you’ve heard of them?”
+
+She shook her head no.
+
+“A research unit at Warwick University in the nineties. They wrote about the Board’s particular fear of spirals and William S. Burroughs’ war against linear time. Their fictional whistleblower, William Kaye, says that unlike closed loops, spirals have loose ends and loose ends are contagious.”
+She put her phone face-down on the table, which was either the battery dying or interest. He decided not to investigate which and to assume the latter.
+
+“Mission takes a psychedelic and goes back to the structure. He lies down next to one of the large lemurs that he’s found and befriended. He hallucinates. On a table inside the structure he finds a copy of the book “The Ghost Lemurs of Madagascar” by William S. Burroughs.”
+
+“The book Burroughs is writing?”
+
+“Yes. Captain Mission uses it as a guide. Burroughs writes what Mission does. There is no origin. The loop is not closed…it is a spiral. Repetition produces difference. The same story is not the same story the second time.”
+
+“Because the second time exists in a different context?”
+
+He looked at her with an expression she recognized as suppressed gratitude.
+
+“Yes- Yeah exactly that.” He paused. “The lemurs represent the evolutionary path not taken. Madagascar split from Africa thirty million years ago. Their way of being did not lead to tools, or time-consciousness, or causality as a way or organizing experience. They’re- Burroughs calls them psychic amphibians. Capable of existing in an invisible state for years at a time. Time and sequence are concepts they find repugnant and genuinely difficult to understand.”
+
+“Do you find time repugnant?”
+
+“I find the prison of it repugnant. Time is not a human invention. It is a human affliction. That’s what Mission understands in the forest. That is what the Board sent Martin to stop from spreading… because once you see the prison you can see the bars.”
+
+She picked up her phone again. He had expected this and decided to continue regardless.
+
+“Terence McKenna-”
+
+“…the mushrooms guy from the 80s?” She said, skeptically.
+
+“Yes, I mean- Among other things, yes. He developed what he called novelty theory. Novelty, like rapid change breakthroughs, revolutions, collapses, is not randomly distributed though time. It’s increasing. Accelerating toward what he called the Omega Point, a teleological attractor at the end of the universe into which everything converged, he thought this was our destiny, our purpose. He thought this would happen in 2012…he thought the world would end in 2012.”
+
+“It didn’t.”
+
+“It didn’t. But the underlying argument about time is interesting regardless. Could that really be our destiny? It makes sense. He asked: what takes more time: a second in which a billion events occur, or a million years in which nothing happens?”
+
+“The second, probably,” she said, still not looking up.
+
+“The second. Time is experienced by events, not units. The early universe was just plasma for billions of years! Almost nothing was happening, so in some sense almost no time passed. Then complexity accumulated and accelerated and a hundred years now contains more event-time than the previous billion. We are approaching the convergence! You can't tell me it doesn't seem like our destiny, look around you!”
+
+“Or the loop closes first,” she said, in the tone of someone completing a sentence they’d heard before, which she had not.
+
+He stared at her. She was still looking at her phone. She said it without inflection, without apparent awareness of having said anything in particular, in the same register she might have said pass the salt. He had the sick vertiginous sensation of a man who has been talking into a room he believed was empty and has just heard, from somewhere inside it, an echo that came back wrong. Not wrong as in incorrect, but wrong as in generated from a mind that had been listening the entire time.
+
+“What.”
+
+“Nothing. Yes. Or the loop closes first.” He awkwardly shuffled the essays, pretending to be doing something productive. “That’s what I’m trying to tell you about. The thing on your phone. The system they’re using to write these…”
+
+“Your students.”
+
+“My students. Every essay fluent, every essay empty, every essay with that same smoothness that has nothing underneath it. No error. No wrong turn. No sentence that could have been written a bit better. That is what a perfect loop produces. That is what it looks like from the outside. There is no actual novelty in any of it, no spiral. The difference is noise to be eliminated, and it looks like intelligence. They- we use it to write our real essays, do our real work, create our real art… but there are no ghost lemurs, because there is nothing, no time, for ghost lemurs to exist outside of. There is no difference, they’re killing it so there is nothing new. They are beating down real novelty and we are letting them. This is what the Board wanted, and we can see it so clearly happening and nobody seems to care. We think we are going to explode into the future, into the Omega Point, but we are being closed into a loop.”
+
+“So ChatGPT is Bradly Martin,” she said, a little sarcastically.
+
+He was quiet for a moment.
+
+“Yes,” he said. “That’s exactly what it is.”
+
+“Ok,” she said.
+
+He shook his head and returned his glasses to his face. She was impossible.
+
+*Inspired by the story "February" by Zero Philosophy lol*
