@@ -1,0 +1,108 @@
+rmarkdown::render_site()
+rmarkdown::render_site()
+rmarkdown::clean_site()
+rmarkdown::render_site()
+install.packages(igraph)
+install.packages("igraph")
+# 1. Digital Reduction / Root function: P(n)
+# Reduces any positive integer to a single digit (1-9) using modulo arithmetic
+plex <- function(n) {
+ifelse(n == 0, 0, ifelse(n %% 9 == 0, 9, n %% 9))
+}
+# 2. Digital Cumulation / Triangular Sum function: C(z)
+# Sums all integers up to z, then reduces it to find the Gate destination
+gate <- function(z) {
+triangular_num <- (z * (z + 1)) / 2
+return(plex(triangular_num))
+}
+# Test the core functions across all 10 standard zones (0 to 9)
+zones <- 0:9
+gates <- sapply(zones, gate)
+# Print a quick lookup table
+data.frame(Zone = zones, Gate_Destination = gates)
+# Initialize a blank 10x10 adjacency matrix for zones 0 to 9
+numogram_matrix <- matrix(0, nrow = 10, ncol = 10,
+dimnames = list(0:9, 0:9))
+# A. Populate the Channels (Gates)
+for (z in 0:9) {
+dest <- as.character(gate(z))
+numogram_matrix[as.character(z), dest] <- 1
+}
+# B. Populate the Currents (Syzygy absolute differences)
+# Pairs that sum to 9: (0,9), (1,8), (2,7), (3,6), (4,5)
+syzygies <- list(c(0,9), c(1,8), c(2,7), c(3,6), c(4,5))
+for (pair in syzygies) {
+diff_val <- abs(pair[1] - pair[2])
+dest <- as.character(diff_val)
+# Both nodes in the syzygy pair feed into the zone of their difference
+numogram_matrix[as.character(pair[1]), dest] <- 1
+numogram_matrix[as.character(pair[2]), dest] <- 1
+}
+print(numogram_matrix)
+library(igraph)
+# Create a directed graph from our adjacency matrix
+numo_graph <- graph_from_adjacency_matrix(numogram_matrix, mode = "directed")
+# Set up a circular layout to mimic the cyclic nature of the Numogram
+layout_circle <- layout_in_circle(numo_graph)
+# Plot the formalized abstract machine
+plot(numo_graph,
+layout = layout_circle,
+vertex.color = "black",
+vertex.label.color = "white",
+vertex.label.font = 2,
+vertex.size = 30,
+edge.arrow.size = 0.5,
+edge.color = "darkred",
+edge.curved = 0.2, # Curves the lines slightly to handle overlapping loops
+main = "Formalized Base-10 Numogram Graph")
+# 1. Digital Reduction / Root function: P(n)
+# Reduces any positive integer to a single digit (1-9) using modular arithmetic
+plex <- function(n) {
+ifelse(n == 0, 0, ifelse(n %% 9 == 0, 9, n %% 9))
+}
+# 2. Digital Cumulation / Triangular Sum function: C(z)
+# Sums all integers up to z, then reduces it to find the Gate destination
+gate <- function(z) {
+triangular_num <- (z * (z + 1)) / 2
+return(plex(triangular_num))
+}
+# Test the core functions across all 10 standard zones (0 to 9)
+zones <- 0:9
+gates <- sapply(zones, gate)
+# Lookup table
+data.frame(Zone = zones, Gate_Destination = gates)
+# Initialize a blank 10x10 adjacency matrix for zones 0 to 9
+numogram_matrix <- matrix(0, nrow = 10, ncol = 10,
+dimnames = list(0:9, 0:9))
+# A. Populate the Channels (Gates)
+for (z in 0:9) {
+dest <- as.character(gate(z))
+numogram_matrix[as.character(z), dest] <- 1
+}
+# B. Populate the Currents (Syzygy absolute differences)
+# Pairs that sum to 9: (0,9), (1,8), (2,7), (3,6), (4,5)
+syzygies <- list(c(0,9), c(1,8), c(2,7), c(3,6), c(4,5))
+for (pair in syzygies) {
+diff_val <- abs(pair[1] - pair[2])
+dest <- as.character(diff_val)
+# Both nodes in the syzygy pair feed into the zone of their difference
+numogram_matrix[as.character(pair[1]), dest] <- 1
+numogram_matrix[as.character(pair[2]), dest] <- 1
+}
+print(numogram_matrix)
+library(igraph)
+# Create a directed graph from our adjacency matrix
+numo_graph <- graph_from_adjacency_matrix(numogram_matrix, mode = "directed")
+# Set up a circular layout to mimic the cyclic nature of the Numogram
+layout_circle <- layout_in_circle(numo_graph)
+# Plot the formalized abstract machine
+plot(numo_graph,
+layout = layout_circle,
+vertex.color = "black",
+vertex.label.color = "white",
+vertex.label.font = 2,
+vertex.size = 30,
+edge.arrow.size = 0.5,
+edge.color = "darkred",
+edge.curved = 0.2, # Curves the lines slightly to handle overlapping loops
+main = "Formalized Base-10 Numogram")
