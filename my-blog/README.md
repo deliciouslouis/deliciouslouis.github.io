@@ -6,8 +6,8 @@
 
 - `index.Rmd` — your homepage
 - `about.Rmd` — your about page
-- `posts/post1.Rmd` — example blog post (copy this for every new post)
-- `_site.yml` — site settings (change the title here)
+- posts
+- `_site.yml` — site settings (u can change the title here)
 
 ---
 
@@ -39,7 +39,7 @@ Your site will be live at `https://yourusername.github.io` in a minute or two!
 
 ## Adding a new blog post
 
-1. Copy `posts/post1.Rmd` and rename it (e.g. `posts/my-new-post.Rmd`)
+1. Copy one of the posts like `posts/post1.Rmd` and rename it (e.g. `posts/my-new-post.Rmd`) or whatever
 2. Edit the title and write your content
 3. Add a link to it in `index.Rmd` like this:
    `[Post Title](posts/my-new-post.html)`
