@@ -1,9 +1,0 @@
-name: "my-blog"
-output_dir: "."
-navbar:
-  title: "Delicious Louis"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
