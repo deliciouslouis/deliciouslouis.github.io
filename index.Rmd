@@ -1,5 +1,8 @@
 ---
 title: "DELICIOUS LOUIS"
+meta-description: "Delicious Louis" 
+header-includes: 
+- <meta name="google-site-verification" content="zFRAjaP1dYxjqdGcRbW6qzkc-YzedUiJp2o1dlEENyU" />
 ---
 
 *Vanity of vanities, says the Preacher, vanity of vanities! All is vanity. What does man gain by all the toil at which he toils under the sun? A generation goes, and a generation comes, but the earth remains forever... What has been is what will be, and what has been done is what will be done, and there is nothing new under the sun.*
