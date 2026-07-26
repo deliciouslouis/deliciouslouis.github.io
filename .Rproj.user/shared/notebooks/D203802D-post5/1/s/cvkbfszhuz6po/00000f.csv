@@ -1,0 +1,3 @@
+"0","max_days <- as.numeric(difftime(zero_date, as.POSIXct(""1990-01-01"", tz = ""UTC""), units = ""days""))"
+"0","n_pts    <- 800"
+"0","u        <- seq(0, 1, length.out = n_pts)"

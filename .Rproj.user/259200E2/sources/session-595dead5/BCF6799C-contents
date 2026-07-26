@@ -1,0 +1,342 @@
+---
+title: "My Ultimate Conspiracy"
+output: html_document
+---
+
+```{r setup, include=FALSE, warning=FALSE, message=FALSE}
+knitr::opts_chunk$set(fig.width = 12, fig.height = 6, echo = TRUE)
+```
+I think the world really did in December of 2012. 
+
+In 1986, beat generation writer William S. Burroughs was commissioned by Omni (a science and science fiction magazine) to write The Ghost Lemurs of Madagascar. It follows Captain Mission, a 17th century pirate, and the colony that he forms on Madagascar called “Libertatia.” The members of Libertatia (a runaway priest, rogue pirates, sailors, and freed slaves) live harmoniously with the native population and with the local lemurs. The natives tell Captain Mission one day that there are giant lemurs living deep in the forest, and he goes to look for them. He comes across a stone structure, and in the structure’s basement finds some large animals unlike any that he has seen before. One approaches him and puts its hand on his face, and Captain Mission suddenly is able to remember things that have not yet happened, and that he should not be able to know. While he is gone, one of the members of the colony, Bradly Martin, shoots and kills a lemur. When Captain Mission returns and finds the dead lemur, he is enraged and tells Bradly Martin that he has until the next day to leave the colony (the appropriate punishment for killing a lemur according to the colony’s constitution). Then, Captain Mission goes to sleep. When he wakes up, he notices the lemur and Bradly Martin are gone, and realizes that Bradly Martin has taken the dead lemur to the native people and told them that they are killing the lemurs, effectively getting the natives to turn on Libertatia. Then, Burroughs says this: 
+
+“In a prerecorded and therefore totally predictable universe, the blackest sin is to tamper with the prerecordings, which could result in altering the prerecorded future. Captain Mission was guilty of this sin. He threatened to demonstrate for all to see that three hundred souls can coexist in relative harmony with each other, their human neighbors, and the ecosphere of flora and fauna. Big Ben strikes the hour. In a muted, ghostly room, the custodians of the future convene. Keepers of the Board Books: Mektoub, it is written. And they don’t want it changed.”
+
+These “custodians of the future” are the ones who sent Bradly Martin to stop Captain Mission from continuing his investigation of the lemurs. Captain Mission takes a psychedelic drug indris (meaning “look there” in the native language) and goes back to the structure in the forest. He lays down next to a big lemur, who he calls Ghost, that he has befriended during his time there and begins to hallucinate. Captain Mission is able to see everything since the beginning of time. In the stone structure there is a table, and on the table there is a copy of the book The Ghost Lemurs of Madagascar by William S. Burroughs. Captain Mission looks at the picture on the cover and the animals on it begin speaking to him. He watches Madagascar split from Africa, understanding that the lemurs represent a different evolutionary path. One that did not lead to the tools, domination, time-consciousness, or destruction of “Homo sap”. He calls lemurs “psychic amphibians,” who are:
+
+“…visible only for short periods when they assume a solid form to breathe, but some of them can remain in the invisible state for years at a time. Their way of thinking and feeling is basically different from ours, not oriented toward time and sequence and causality. They find these concepts repugnant and difficult to understand.”
+
+The lemurs exist outside of time. He watches as humans enter the picture and begin to destroy everything. He sees evolution as a series of “Lost Chances,” and time as a “…human affliction. Not a human invention but a prison.” This is exactly what Bradly Martin was sent to prevent from spreading: the realization that time is a prison. In this stone structure, this “…biological Garden of Lost Chances,” there exists a time loop, and so necessarily the structure exists outside of the prison of time. Burroughs in 1986 is writing the book about what Captain Mission did in 1700, but because Captain Mission is using the book as a guide, the book changes what Captain Mission does, and because Burroughs is writing the book about what Captain Mission does, the book changes. There is no clear origin of the story. In the end, the natives descend upon the settlement of Libertatia and enact revenge on them for their supposed killing of the lemur. Caraccioli is killed, along with hundreds of the other settlers. Captain Mission and the remaining small group of men decide to leave the island and retire in America. On the way, Captain Mission’s boat capsizes in a storm, and that’s the end of the story.
+
+In the late 1990s, the Cybernetic Culture Research Unit, or CCRU, wrote about a “Lemurian Time War,” where they outlined William S. Burroughs’ war against the OGU (One God Universe a.k.a. linear time, ideological systems, and centralized power). The story is written based on information given to two fictional researchers, Peter Vysparov and Echidna Stillwell by “William Kaye,” a fictional whistleblower for the Board (what they call the organization which sent Bradly Martin). The Board, he says, was created as a reaction to the fear of time spiraling out of control and coming apart (as opposed to it being a loop). Basically, he says that William S. Burroughs and Captain Mission are the same person in a sense, describing an encounter Burroughs has in an ancient library where he finds the book The Ghost Lemurs of Madagascar, and remembers writing it even though he himself hasn’t actually written it yet. The CCRU then extends the narrative to the life itself and other works of Burroughs, specifically his famous “cut up” technique, and claims that they are weapons against the OGU and linear time, and that the paranoia Burroughs experienced was also a sign of his war against linear time. 
+
+In 1971, Terence McKenna, an American counter-culture figure and ethnobotanist, came up with his idea of “novelty theory,” following his experiences in the Amazon experimenting with different psychedelic plants. The idea is that novelty (which he defined as rapid change or upheaval i.e. scientific breakthroughs, revolutions, new ideas, empire collapses, cultural renaissance, etc.) is increasing at such a fast, unprecedented rate that soon it will become itself what he calls the “omega point” or “teleological attractor at the end of the universe” and everything will collapse into itself. He thought this point would be the end of the world/the end of time as we know it because time is experienced by the events in it, and he believed that this would happen in 2012. 
+Time being experienced by the events within it rather than uniformly across history is an interesting idea, and a little counter-intuitive. In an interview in 1996, Terence McKenna asked the question: “What takes more time; a second where a billion events happen, or a million years where nothing happens?” In the interview, he kind of just brushes past this, assuming that everyone would agree with him that obviously the second with a billion events happening takes more time than the million years, but I think that this point requires some more justification/explanation. 
+
+These ideas come primarily from Henri Bergson, who in 1922 wrote Duration and Simultaneity in which he famously argued with Albert Einstein over conceptions of time and relativity, and from the contemporary philosopher Mario Radovan, who wrote the paper On the Nature of Time in 2015: 
+Time is not a uniform container ticking away at a constant rate regardless of what's happening inside it, and this is true for two reasons: 1) time is nothing but an abstraction we build from change (Radovan), and 2) the only “real” time is the lived duration of a consciousness undergoing experience (Bergson). 
+Radovan brings up the historical debate between Isaac Newton and Gottfried Leibniz over the nature of time. Newton believed in “absolute” time (a single, universal clock ticking away in the background of the universe, existing whether or not anything happened in it). Leibniz rejected this, stating that there was no such thing as a “moment” that exists independently of events. Time, for Leibniz, is the order of succession of things that happen: remove all events and relations between things, and there’s nothing left for time to happen in. Radovan sides with Leibniz here. Then, he says Newton didn't really disagree with Leibniz as much as it seemed. Newton's "absolute mathematical time" can be understood as just the abstract, idealized version of Leibniz's order of succession. Specifically, the version you get if you pick an extremely stable repeating process (like the rotation of the earth) as your reference. In other words, Newton needed Leibniz's raw material (real events, real successions) to build his abstract mathematical time on top of; you can't get to "absolute time" without first having something like Leibniz's relational ordering to abstract it from. This is exactly the move that licenses McKenna's statement: if time really is nothing but order-of-succession abstracted from events (Leibniz/Radovan), then the rate of events plausibly matters to how much "time" gets abstracted out.
+
+As I mentioned, Bergson was in an ongoing debate against Einstein about the nature of time, and because of this he uses Einstein's own formal apparatus against the interpretation Einstein's followers built on top of it. He focuses on the idea of time dilation, a founding idea of special relativity which proposes that time literally slows down for a clock moving at high speeds. This phenomenon is illustrated by the Twin Paradox, where the traveling twin undergoes time dilation, and ages less than the stationary one. In special relativity, if two observers are moving at constant velocity relative to each other, neither one can have a privileged claim to being "the one who's really moving.” You can just as well say that A is at rest and B is moving, and A is moving and B is at rest. This is the "principle of relativity" itself: uniform motion is not absolute, only relative. Bergson's move is to point out that the twin paradox (where a traveling twin supposedly ages less than a stationary one) contradicts the theory’s founding hypothesis. According to the principle of relativity, uniform motion is strictly reciprocal, so neither twin can claim to be the one "really" moving. Therefore, any mathematical slowing of time attributed to the traveling twin must, by strict symmetry, be attributed to the stationary twin as well, they can’t both be younger than each other, one has to be objectively younger. Bergson proved that the "time dilation" physicists calculate is a "phantom time” (a mathematically serious and well-defined quantity in the equations, but a total illusion that no living consciousness actually experiences). 
+This is where Herbert Dingle in the late 1950s and 1960s formed Bergson’s critique into a real syllogism: if relativity is true, then no experiment can show which clock "really" has moved. Therefore, if the clocks show a real, asymmetrical age difference upon reuniting, it contradicts the very starting postulate of relativity. Dingle exposed that physicists only avoid this contradiction by cheating: sneaking an absolute reference frame back into the equations via "acceleration" or the Lorentz principle while still pretending to be relativists. (Hendrik Lorentz believed in an absolute, stationary background to the universe, so to him, time dilation was a literal physical warping of clocks caused by their absolute motion through space). 
+
+In 1948, the mathematician Claude Shannon published the paper A Mathematical Theory of Communication, in which he was able to mathematically quantify information by treating data as a measurable quantity with the unit “bit.” The key move for us is to formalize "density of change" as information content, in the Shannon way: information is a function of surprise, or reduction of uncertainty, rather than elapsed clock-time. A system sitting in a static, predictable state generates almost no information per unit time, because each successive moment is highly predictable from the last: entropy production is near zero. A system undergoing rapid, unpredictable transformation generates a high rate of information, because each new state is poorly predicted by the one before it (this is so Deleuze Difference and Repetition it’s not even funny. More on this in a little while). In this way, our "billion events in a second" is really a claim about an extremely high bit-rate of novel, non-redundant state-changes crammed into a small clock-time interval, while his "million years where nothing happens" describes a channel outputting close to zero bits over a very long interval. If you define "how much happened" as total information transmitted (rate × duration) rather than duration alone, the high-bit-rate second contains more "content" than the near-zero-bit-rate eon, even though the clock says otherwise. 
+
+Anyways, now that we have established that it is, in fact, the second with a million events in it that takes more time, we can continue on. Terence McKenna explained all of history as increasingly dense complexification, starting with the early universe just being plasma, unassociated electrons for thousands of years, to events happening in the present-day that we could never imagine happening just a year ago. He tracked this bit-rate acceleration across cosmic epochs, giving the example of the Soviet Union’s dissolution as a high novelty event. He explained that as this process continued the universe complexified faster and faster, there would be a point where it could no longer sustain itself (reaching the omega point). In this way, novelty is humanity’s “destiny.” Everything that has happened since the beginning of time has been bringing us towards this. There is almost a Christian aspect to this. Heaven is novel, it is so novel that it is incomprehensible to humanity while we are living on Earth. Christians believe that the ultimate goal is to reach Heaven, and be reunited with God, it is our destiny. Heaven is the teleological attractor at the end of the Universe, and everything we do is building towards that point… Heaven is novelty. 
+
+But that is besides the point. This is the reason why Terence McKenna thought that the world would end/we would reach this point specifically on December 21st, 2012: 
+
+The ancient Maya were extremely talented astronomers and mathematicians, and by mastering base-20 mathematics and tracking celestial cycles through naked-eye observation, they were able to calculate the solar year to within 18 seconds of modern measurements (365.2420 days), creating a calendar far more accurate than Europe's contemporary Julian calendar, which drifted out of alignment by one full day every 128 years. They called that one their solar calendar, or “Haab’” and it was used cyclically to govern everyday life. They also had their Long Count Calendar, which had a “zero date,” proceeded linearly, and functioned to record long history. 
+The Ancient Mayan Long Count Calendar is linear, not cyclical like the one we use, and it keeps time roughly in units of 20. 20 days make up a Winal, 18 Winals (360 days) make a tun, 20 tuns make a k’atun, and 20 k’atuns (144,000 days/394 years) make up a b’ak’tun. Dates are identified by how many days they are away from the starting date (The starting date August 11, 3114 BCE in the proleptic Gregorian calendar). Our current world is the fourth one, with there being 3 failed ones before us. The previous one ended after 13 b’ak’tuns. The Long Count’s “zero date” is a set point in the past marking the end of the third world and the beginning of the current (4th) one (11 August 3114 BCE). This means that the fourth world will have reached the end of its 13th b’ak’tun (13.0.0.0.0) on December 21st, 2012. There is an inscription on Tortuguero Monument 6 referring to the 13th b’ak’tun which translates to:
+
+“It will be completed the 13th b’ak’tun. It is 4 Ajaw K’ank’In and it will happen a “seeing” (?). It is the display of B’olon-Yok’te⁴ in a great investiture.”
+
+The idea here is that there would be a sacrifice (?) to the Mayan god B’olon-Yok’te (Maya underworld deity associated with war, transition, and major periods of change) at the end of the 13th b’ak’tun and the world would end (and then start over, starting the 5th world?). 
+
+Now, this is where the whole Timewave Zero idea comes into play. McKenna then looked to the 9th Century Chinese traditional text the I Ching. The I Ching or “Book of Change” was used for divination, and it is built of hexagrams: stacks of 6 horizontal lines, where each line is either broken (⚋, "yin") or solid (⚊, "yang"). Since each of the 6 lines has 2 possible states, there are 2⁶ = 64 possible hexagrams. Each hexagram has a name ("The Creative," "The Receptive," etc.). These 64 hexagrams have historically been arranged in a specific, traditional order called the King Wen sequence, named after 11th Century Chinese ruler King Wen of Zhou, to whom the ordering is traditionally attributed. It is said that when King Wen was imprisoned by the Shang King of Zhou, he came up with this order. It's just a specific list: hexagram 1, hexagram 2, ... hexagram 64, in a fixed, culturally established order. This specific sequence is significant because it is said to have a hexagram that corresponds to every single possible event in life. The order pairs hexagrams in complementary opposites or inversions. This structure mirrors the natural cycles of the universe, showing that change is constant and inevitable, and it’s continuous and loops back to itself. The sequence begins with pure creative energy and pure receptive form and it concludes with transition, showing that life is an ongoing process, which is why it is also called the “Book of Changes.” 
+
+Peter Meyer, a collaborator of Terence McKenna was the one who converted this Timewave Zero into something that could be represented on the computer. I wanted to make an interactive graph of Timewave Zero for myself where you could hover your cursor over different points of the graph and it would tell you the novelty index or whatever at that point and also what “novel” events were taking place at that time, and I tried to do it in R Studio using plotly… but it was too much for the site to handle when I went to render it, so I made a static image instead lol, with a legend with the events I wanted to include. Now I will go through the code: 
+
+## 1
+What McKenna did now was look at consecutive pairs in that sequence: hexagram 1 → hexagram 2, hexagram 2 → hexagram 3, and so on around the full loop (hexagram 64 wraps back to hexagram 1). For each pair, he compared the two hexagrams line-by-line and count how many of the 6 lines change/flip (broken ↔ solid) when going from one to the next. That gives you a single small number (has to be somewhere between 1 and 6) for each of the 64 transitions. For example h[1] = 6 means when going from hexagram 1 to hexagram 2, all 6 lines flipped; h[2] = 2 means only 2 lines flipped going from hexagram 2 to hexagram 3, etc. This is this beginning section of the code (and I included the packages that I used):
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(lubridate)
+library(ggrepel)  
+
+h_vals <- c(6,2,4,4,4,3,2,4,2,4,6,2,2,4,2,2,6,3,4,3,2,2,2,3,
+            4,2,6,2,6,3,2,3,4,4,4,2,4,6,4,3,2,4,2,3,4,3,2,3,
+            4,4,4,1,6,2,2,3,4,3,2,1,6,3,6,3)
+```
+
+## 2
+McKenna realized that he wanted a more detailed, textured curve than the one that could be produced with just those 64 points, and one that would be able to look up values like h(-5) or h(70)... things that were outside of the numbers 1-64. Here I used mod_64() to wrap the index around, staying consistent with the idea that the King Wen sequence is a loop. h_at() is just a safe wrapper around h_vals that uses that wraparound, and special-cases index 0 to mean "the 64th value" (since R vectors start at 1, not 0, there's no natural h_vals[0]).
+
+```{r}
+mod_64 <- function(i) {
+  i <- i %% 64
+  i[i < 0] <- i[i < 0] + 64
+  i
+}
+h_at <- function(i) {
+  idx <- mod_64(i)
+  ifelse(idx == 0, h_vals[64], h_vals[idx])
+}
+```
+
+## 3
+This part computes (-1)^1, showing us if i is odd or even by returning either -1 or 1. This creates the alternating sign pattern that flips every 32 steps (and every 96, every 192)... part of what gives the 384 point sequence the sort of organic shape that it has rather than it being a smooth trend. 
+
+```{r}
+exp_minus_one <- function(i) {
+  i <- abs(i)
+  ifelse(i %% 2 == 1, -1, 1)
+}
+```
+
+## 4 
+Integer division (same as \\ in Python) throws away the remainder... this is used to convert "position among 384" into "position among the original 64" by dividing by 3 or 6 since 384 = 64*6. 
+
+```{r}
+idiv <- function(a, b) trunc(a / b)
+```
+
+## 5
+Here is where we build the datapoints and turn the original 64 numbers into the 384 and then turn it fractal. We want it to have the same shape at whatever scale we set. Basically, we're doing the same simply operation three times at three different elvels, and then adding them together. The first part looks directly at h near position k, one entry per hexagram transition. The second part looks at h near position k/3, and dividing by 3 collapses three of the 384 output-positions onto one original h positions, making a coarser view. The third part looks at h near position k/6, matching the full 64->384 expansion ratio. Each part multiplies its bracketed difference of h values by an alternating sign (from our exp_minus_one) that flips at a different rate (every 32, 96 or 192 steps). This is waht mixes "fine detail," "medium detail," and coarse detial from the same underlying 64 numbers into every single one of the 384 outputs. This is what gives the eventual wave its fractal texture even before the explcit fractal-summing step. 
+
+```{r}
+build_datapoints <- function() {
+  w <- integer(384)
+  
+  for (k in 0:383) {
+
+    a_term <- exp_minus_one(idiv(k - 1, 32)) *
+      ( h_at(k - 1) - h_at(k - 2) + h_at(-k) - h_at(1 - k) ) +
+      3 * ( exp_minus_one(idiv(k - 3, 96)) *
+              ( h_at(idiv(k, 3) - 1) - h_at(idiv(k, 3) - 2) +
+                  h_at(-1 * idiv(k, 3)) - h_at(1 - idiv(k, 3)) ) ) +
+      6 * ( exp_minus_one(idiv(k - 6, 192)) *
+              ( h_at(idiv(k, 6) - 1) - h_at(idiv(k, 6) - 2) +
+                  h_at(-1 * idiv(k, 6)) - h_at(1 - idiv(k, 6)) ) )
+    
+    b_term <- ( 9 - h_at(-k) - h_at(k - 1) ) +
+      3 * ( 9 - h_at(-1 * idiv(k, 3)) - h_at(idiv(k, 3) - 1) ) +
+      6 * ( 9 - h_at(-1 * idiv(k, 6)) - h_at(idiv(k, 6) - 1) )
+    
+    w[k + 1] <- abs(a_term) + abs(b_term)
+  }
+  
+  w
+}
+```
+
+## 6 
+This is a second, structurally similar three-scale combination, but built around 9 - h - h instead of a difference. It's a second, distinct arithmetic feature the mathematician Matthew Watkins found was necessary to make the 384-point expansion actually reproduce McKenna's original resutls... so I included it too. Also, both terms get their absolute value taken and summed. Taking the absolute value is important because it guarantees every output is non-negative... which will be required for later for the whole fractal-sum machinery to be mathematically guaranteed to converge.
+ This part runs the whole function once and stores the actual 384 numbers, and then extends w to a function w19) such that w1(i) = w(i mod 384). it's the same wrap around idea as mod_64(), just at the 384 scale. 
+
+```{r}
+w_data <- build_datapoints()
+ 
+w_fn <- function(i) {
+  idx <- (i %% 384)
+  idx[idx < 0] <- idx[idx < 0] + 384
+  w_data[idx + 1]
+}
+```
+
+## 7
+
+This is what turns the function continuous: it draws a straight line between the two neighboring integer points and reads off the height at x. 
+
+```{r}
+v_fn <- function(x) {
+  ix <- floor(x)
+  frac <- x - ix
+  w_fn(ix) + frac * (w_fn(ix + 1) - w_fn(ix))
+}
+```
+
+## 8
+
+Now, we deal with the positive i half of the infinite sum of f(x). We add in progressively stretched and shrunked in height copies of the zigag. Since each successive term is 64 times smaller than the least, we can safely stop after max_i = 12 terms because by then, further terms are so incredibly small that they don't affect the result at any precision that actually matters. Now we deal with the negative half. Unlike the first loop, this one doesn't need an arbitrary cutoff. Instead, it uses the actual mathematical fact of v(x) = 0 whenever x < 3 so the loop just keeps going until the shrinking argument drops below 3, at which point every remaining term is exactly zero (not even just negligibly small). 
+
+```{r}
+f_fn <- function(x, a = 64, max_i = 12) {
+  total <- 0
+  ai <- 1
+  for (i in 0:max_i) {
+    total <- total + v_fn(x * ai) / ai
+    ai <- ai * a
+  }
+ aj <- a
+  j <- 1
+  while (TRUE) {
+    arg <- x / aj
+    if (arg < 3 || j > 200) break
+    total <- total + v_fn(arg) * aj
+    aj <- aj * a
+    j <- j + 1
+  }
+  total
+}
+```
+
+
+## 9
+Now we can rescale so that the numbers land in a friendlier and easier to manage range, and then we put in ourselves the December 21st, 2012 date from when the Mayan Calendar's 4th cycle was supposed to end.
+
+```{r}
+t_fn <- function(x) f_fn(x) / 64^3   # x = days prior to the zero date
+ 
+zero_date <- as.POSIXct("2012-12-21 06:00:00", tz = "UTC")
+```
+
+## 10
+This part is to calculate for us how many days there are between January 1, 1990 and our zero date (December 21, 2012) which will serve as the full spain we want to plot. n_pts also gives us how many sample points to generate across this span, I just chose 800 because it seemed to not big and not too small. Then, u creates 800 evenly-spaced numbers between 0 and 1. U isn't a date (yet) it's just a neutral "position" variable for now. 
+
+```{r}
+max_days <- as.numeric(difftime(zero_date, as.POSIXct("1990-01-01", tz = "UTC"), units = "days"))
+n_pts    <- 800
+u        <- seq(0, 1, length.out = n_pts)
+```
+
+## 11
+Here is where we reshape u. If we had just done max_days * u, we would end up 800 evenly spaced days across the whole 1990 - 2012 range, which wouldn't let us see the wave's rapid compression near the zero date. By cubing u first (u^3), small values of u get squashed even closer to 0, while the larger values near 1 stay near one. This means that most of our 800 points end up clustered very close to the zero date, with only a few points scattered across the earlier, less novel-heavy decades so that the final descent to zero doesn't get averaged away. The rev() part just flips the order so that the list reads from far in the past down to close to the zero date. 
+
+```{r}
+days_before_zero <- max_days * u^3
+days_before_zero <- rev(days_before_zero)  
+```
+
+## 12
+This part convers each number into an actual calendar date by subtracting that many days from December 21, 2012, and years_real converts each full date into a decimal year (for example, 1996-03-14 gets turned into 1996.20), just so that it's easy to plot nicely on our continuous numeric x axis... and we can put it all together.... I'll show the plot at the end of this post, you will understand why soon. 
+
+```{r, warning=FALSE}
+dates_real <- zero_date - ddays(days_before_zero)
+years_real <- decimal_date(dates_real)
+ 
+novelty_real_raw <- sapply(days_before_zero, t_fn)
+```
+ 
+Now that Terence McKenna's origianl timewave zero leading up to 2012 has been plotted, we can continue on. 
+
+French philosopher Gilles Deleuze published Difference and Repetition in 1968. In this project, Deleuze’s mission was to overthrow the “tyranny of identity” and establish difference as the primary generative engine of reality. Under a Deleuzian framework, traditional physics treats time as a series of identical, mechanical repetitions (clock seconds that are equivalent to each other). But Deleuze argues that true repetition is actually an intensive, internal force that produces radical, unrepeatable newness. This takes us back to Claude Shannon and information theory. When Shannon quantifies information based on "surprise," he is translating Deleuze’s concept of intensive difference into mathematics. A stagnant eon where nothing happens is trapped in what Deleuze calls "generality" (the sterile repetition of the identical), which produces zero true difference and thus zero information bits. Conversely, a single second packed with a billion unpredictable transformations is a localized explosion of pure difference. 
+Difference should not be seen as secondary to repetition, because difference is actually what produces identity. A perfect repetition or loop is not ideal because it does not produce novelty, the difference is what moves you forward. 
+
+Let’s think about this in the current day (post-2012). We are living in an insane purgatory of looping negative novelty. The rise of machine learning and artificial intelligence has given us perfect repetition where the ultimate goal is to eliminate difference…. Creating a loop for us just like the Board wanted. The basic cycle of machine learning is this: 
+1. Model gets fed data
+2. Model uses its current parameters to produce an output (prediction)
+3. Model’s performance is evaluated/error is measured
+4. Model is corrected (probably using gradient descent… a.k.a. trying to minimize error… a.k.a. difference)
+5. Repeat
+There is no real novelty, it is only manufactured so that nobody realizes what is actually going on. Generative AI uses the statistical patterns of the past to create a response, but if AI perfectly predicted the most probable word or pixel every time, its output would collapse into sterile, repetitive clichés with near-zero information value. So in order to hide the true nature of AI, engineers introduce things like  "temperature" to force the system to bypass the most predictable option in favor of less likely alternatives. This is not novelty. It is a distraction from the fact that the world ended in 2012 and we have descended into a looping downward spiral of decreasing novelty. The artificial differences that are created are not truly differences. Call them “phantom differences” because they create the illusion of real difference while still being within very well-defined boundaries. 
+
+To show this, I extended Timewave Zero past 2012 and added labels for important events of synthetic or real novelty. I wanted to make it look more like a spiraling downward broken feedback loop rather than a clean crash, with oscillations that grow over time (like something looping down into no difference). 
+ 
+```{r}
+years_fake <- seq(2012.2, 2026, by = 0.05)  
+n_fake <- length(years_fake)
+t_since <- years_fake - 2012
+ 
+drift        <- 115 - 8 * t_since
+loop_1       <- 25 * sin(t_since * 2.3)
+loop_2       <- 15 * sin(t_since * 5.1 + 1.2) * (1 + 0.15 * t_since)
+loop_3       <- 8  * sin(t_since * 11.0 + 0.4)
+growing_noise <- rnorm(n_fake, 0, 1 + 0.6 * t_since)
+ 
+novelty_fake_raw <- drift + loop_1 + loop_2 + loop_3 + growing_noise
+ 
+```
+
+The true Timewave Zero up until 2012 has its own natural units (it spans from ~0 near the zero point up to very large values far in the past — it is NOT naturally on a 0-100 "novelty index" scale). To put it on the same chart as the fabricated post-2012 numbers, we can rescale the real curve's shape (min-max normalized) onto roughly the same range as the fake curve. This preserves the true wave's structure faithfully; only the y-axis units are cosmetic. Now we're finally ready to plot it in its entirety. 
+
+```{r}
+rescale_to <- function(x, lo, hi) {
+  (x - min(x)) / (max(x) - min(x)) * (hi - lo) + lo
+}
+ 
+novelty_real <- rescale_to(novelty_real_raw, lo = 0, hi = 115)
+ 
+matrix_data <- bind_rows(
+  data.frame(Year = years_real, Novelty = novelty_real,
+             Timeline = "Organic Chronology (real Timewave Zero)"),
+  data.frame(Year = years_fake, Novelty = novelty_fake_raw,
+             Timeline = "Synthetic Loop (fabricated)")
+) %>%
+  mutate(Tooltip = paste0("Year: ", floor(Year), "<br>Novelty Index: ", round(Novelty, 2)))
+ 
+ 
+anomaly_years <- c(1990.1, 1991.8, 1996.0, 1996.5, 1998.6, 1999.5, 2000.0, 2001.8, 2004.5, 2004.8, 2007.5, 2008.2, 2010.4, 2011.0, 2011.5, 2011.7, 2011.9, 2012.0, 2012.2, 2014.3, 2015.5, 2017.8, 2020.0, 2022.8, 2024.5, 2024.7, 2025.0, 2025.1, 2025.3, 2025.4, 2025.8, 2025.9, 2026.1, 2026.7)
+anomaly_labels <- c(
+  "<b>[1990]</b><br>East and West Germany are reunified following the fall of the Berlin Wall.", 
+  "<b>[1991]</b><br>The Soviet Union dissolves and the Cold War ends.", 
+  "<b>[1996]</b><br>Scientists clone Dolly the sheep, the first mammal to be cloned from an adult cell.",
+   "<b>[1996]</b><br>The F.B.I. arrests Theodore Kaczynski, the Unabomber.",
+   "<b>[1998]</b><br>U.S. Embassies in Nairobi, Kenya and Dar es Salaam, Tanzania are bombed.",
+  "<b>[1999]</b><br>Ehud Barak wins election over Prime Minister Netanyahu after campaigning to move the peace process with Palestine forward.",
+  "<b>[2000]</b><br>Mass panic over societal collapse because of computers not being able to recognize the date changing: Y2K panic.",
+  "<b>[2001]</b><br>The Twin Towers are bombed, prompting the United States' War on Terror.",
+  "<b>[2004]</b><br>Indian Ocean Tsunami.",
+  "<b>[2004]</b><br>Hurricane Katrina.",
+  "<b>[2007]</b><br>The first iPhone is released.",
+  "<b>[2008]</b><br>The most severe global financial crisis since the Great Depression.",
+  "<b>[2010 FLASH CRASH]</b><br>Futures trader Navinder Singh Sarao creates a massive automated sell order triggers a chain reaction among high-frequency trading algorithms causing the Dow Jones to plummet 1,000 points in minutes.",
+  "<b>[2011]</b><br>Egyptian President Hosni Mubarak is ousted after protests in Tunisia and Egypt.",
+  "<b>[2011]</b><br>9.0 magnitude earthquake hits Japan, causing the Fukushima Daiichi nuclear crisis.",
+  "<b>[2011]</b><br>Civil Wars break out in Libya and Syria.",
+  "<b>[2011]</b><br>Occupy Wall Street movement.",
+  "<b>[2012 THRESHOLD]</b><br>Mayan Long Count calendar ends, Timewave Zero hits absolute zero and the novelty is unbearable, linear chronology is terminated.",
+  "<b>[2012 ALEXNET AI BREAKTHROUGH]</b><br>Starting point of the deep-learning revolution. The Board unleashing its ultimate control weapon to eliminate novelty.",
+  "<b>[2014]</b><br>Amazon Echo and Alexa are launched.",
+   "<b>[2015]</b><br>OpenAI is founded.",
+  "<b>[2017 FLASH CRASH]</b><br>A mysterious multimillion-dollar market sell order on the GDAX exchange triggers a massive domino effect of 800 automated stop-loss orders and margin liquidations, causing Ethereum to instantly go from $319 to $0.10.",
+  "<b>[2020]</b><br>COVID-19 pandemic.",
+  "<b>[2022]</b><br>OpenAI releases ChatGPT.",
+  "<b>[2024]</b><br>Popularization of AI-generated memes...full cultural takeover: Italian brainrot.",
+  "<b>[2024]</b><br>Rapid proliferation of AI companion and chat applications.",
+  "<b>[2025]</b><br>Albania appoints the first ever AI/virtual government minister.",
+  "<b>[2025]</b><br>1 in 3 teens report some emotional connection to AI.",
+  "<b>[2025]</b><br>College Board, known nonprofit which administers AP exams and the SAT, releases a survey stating that 84% of high school students claim to have used artificial intelligence for schoolwork.",
+  "<b>[2025]</b><br>Japanese woman Yurina Noguchi marries an AI chatbot that she has generated using ChatGPT.",
+  "<b>[2025]</b><br>President Trump returns to the White House, DOGE cuts.",
+  "<b>[2025]</b><br>Rise of vibe coding.",
+  "<b>[2026]</b><br>Rumors circulate of political figures covering up their deaths with AI-generated media.",
+  "<b>[2026: NOW]</b><br>We are in a total purgatory of synthetic, looping novelty decline."
+)
+
+anomaly_df <- data.frame(Year = anomaly_years) %>%
+  mutate(
+    Year = pmax(pmin(Year, max(matrix_data$Year)), min(matrix_data$Year)),
+    Novelty = approx(matrix_data$Year, matrix_data$Novelty, xout = Year)$y,
+    Label = anomaly_labels %>%
+      gsub("<br>", " ", ., fixed = TRUE) %>%
+      gsub("</?b>", "", .),
+    Number = row_number()
+  )
+
+p <- ggplot(matrix_data, aes(x = Year, y = Novelty, color = Timeline, group = 1)) +
+  geom_line(linewidth = 0.9) +
+  geom_point(size = 1.1, alpha = 0.6) +
+  geom_point(data = anomaly_df, aes(x = Year, y = Novelty),
+             inherit.aes = FALSE, color = "darkslateblue", size = 6.5, shape = 18) +
+  geom_text(data = anomaly_df, aes(x = Year, y = Novelty, label = Number),
+            inherit.aes = FALSE, size = 2.1, color = "white", fontface = "bold") +
+  geom_vline(xintercept = 2012.97, linetype = "dashed", color = "red", linewidth = 0.7) +
+  annotate("text", x = 2012.97, y = max(matrix_data$Novelty) * 1.02,
+           label = "ZERO POINT", color = "red", fontface = "bold", size = 3.5, hjust = 0.5) +
+  scale_color_manual(values = c("Organic Chronology (real Timewave Zero)" = "darkolivegreen",
+                                 "Synthetic Loop (fabricated)"             = "chartreuse2")) +
+  labs(
+    title    = "Novelty, 1990\u20132026",
+    subtitle = "Pre-2012: the real Timewave Zero math. Post-2012: Mckenna's wave post-2012 was never defined, I approximated what I think it would look like and filled it in here for effect.",
+    x = NULL, y = "Novelty Index (rescaled)",
+    color = "Timeline Regime"
+  ) +
+  theme_minimal(base_size = 13) +
+  theme(
+    plot.title    = element_text(face = "bold"),
+    plot.subtitle = element_text(color = "grey40", size = 9),
+    legend.position = "bottom"
+  )
+
+print(p)
+```
+
+
+```{r, results='asis'}
+key_lines <- paste0("**", anomaly_df$Number, ".** ", anomaly_df$Label)
+cat(paste(key_lines, collapse = "  \n"))
+```
+

@@ -1,0 +1,4 @@
+"0","exp_minus_one <- function(i) {"
+"0","  i <- abs(i)"
+"0","  ifelse(i %% 2 == 1, -1, 1)"
+"0","}"

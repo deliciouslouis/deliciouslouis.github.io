@@ -1,0 +1,6 @@
+"1","NULL
+"
+"0"," "
+"0","# To save it as a standalone HTML file you can open anytime (or host on"
+"0","# GitHub Pages), uncomment:"
+"0","# htmlwidgets::saveWidget(p_ly, ""novelty_conspiracy.html"", selfcontained = TRUE)"

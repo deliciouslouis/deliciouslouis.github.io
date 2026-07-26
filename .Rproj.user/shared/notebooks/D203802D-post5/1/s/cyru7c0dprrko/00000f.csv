@@ -1,0 +1,5 @@
+"0","v_fn <- function(x) {"
+"0","  ix <- floor(x)"
+"0","  frac <- x - ix"
+"0","  w_fn(ix) + frac * (w_fn(ix + 1) - w_fn(ix))"
+"0","}"

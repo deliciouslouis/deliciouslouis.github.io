@@ -1,0 +1,4 @@
+"0","dates_real <- zero_date - ddays(days_before_zero)"
+"0","years_real <- decimal_date(dates_real)"
+"0"," "
+"0","novelty_real_raw <- sapply(days_before_zero, t_fn)"

@@ -1,0 +1,36 @@
+"0","key_lines <- paste0(""**"", anomaly_df$Number, "".** "", anomaly_df$Label)"
+"0","cat(paste(key_lines, collapse = ""  \n""))"
+"1","**1.** [1990] East and West Germany are reunified following the fall of the Berlin Wall.  
+**2.** [1991] The Soviet Union dissolves and the Cold War ends.  
+**3.** [1996] Scientists clone Dolly the sheep, the first mammal to be cloned from an adult cell.  
+**4.** [1996] The F.B.I. arrests Theodore Kaczynski, the Unabomber.  
+**5.** [1998] U.S. Embassies in Nairobi, Kenya and Dar es Salaam, Tanzania are bombed.  
+**6.** [1999] Ehud Barak wins election over Prime Minister Netanyahu after campaigning to move the peace process with Palestine forward.  
+**7.** [2000] Mass panic over societal collapse because of computers not being able to recognize the date changing: Y2K panic.  
+**8.** [2001] The Twin Towers are bombed, prompting the United States' War on Terror.  
+**9.** [2004] Indian Ocean Tsunami.  
+**10.** [2004] Hurricane Katrina.  
+**11.** [2007] The first iPhone is released.  
+**12.** [2008] The most severe global financial crisis since the Great Depression.  
+**13.** [2010 FLASH CRASH] Futures trader Navinder Singh Sarao creates a massive automated sell order triggers a chain reaction among high-frequency trading algorithms causing the Dow Jones to plummet 1,000 points in minutes.  
+**14.** [2011] Egyptian President Hosni Mubarak is ousted after protests in Tunisia and Egypt.  
+**15.** [2011] 9.0 magnitude earthquake hits Japan, causing the Fukushima Daiichi nuclear crisis.  
+**16.** [2011] Civil Wars break out in Libya and Syria.  
+**17.** [2011] Occupy Wall Street movement.  
+**18.** [2012 THRESHOLD] Mayan Long Count calendar ends, Timewave Zero hits absolute zero and the novelty is unbearable, linear chronology is terminated.  
+**19.** [2012 ALEXNET AI BREAKTHROUGH] Starting point of the deep-learning revolution. The Board unleashing its ultimate control weapon to eliminate novelty.  
+**20.** [2014] Amazon Echo and Alexa are launched.  
+**21.** [2015] OpenAI is founded.  
+**22.** [2017 FLASH CRASH] A mysterious multimillion-dollar market sell order on the GDAX exchange triggers a massive domino effect of 800 automated stop-loss orders and margin liquidations, causing Ethereum to instantly go from $319 to $0.10.  
+**23.** [2020] COVID-19 pandemic.  
+**24.** [2022] OpenAI releases ChatGPT.  
+**25.** [2024] Popularization of AI-generated memes...full cultural takeover: Italian brainrot.  
+**26.** [2024] Rapid proliferation of AI companion and chat applications.  
+**27.** [2025] Albania appoints the first ever AI/virtual government minister.  
+**28.** [2025] 1 in 3 teens report some emotional connection to AI.  
+**29.** [2025] College Board, known nonprofit which administers AP exams and the SAT, releases a survey stating that 84% of high school students claim to have used artificial intelligence for schoolwork.  
+**30.** [2025] Japanese woman Yurina Noguchi marries an AI chatbot that she has generated using ChatGPT.  
+**31.** [2025] President Trump returns to the White House, DOGE cuts.  
+**32.** [2025] Rise of vibe coding.  
+**33.** [2026] Rumors circulate of political figures covering up their deaths with AI-generated media.  
+**34.** [2026: NOW] We are in a total purgatory of synthetic, looping novelty decline."

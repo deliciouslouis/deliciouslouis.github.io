@@ -1,0 +1,7 @@
+"0"," "
+"0","p_ly <- ggplotly(p, tooltip = ""text"") %>%"
+"0","  layout(hovermode = ""x unified"", legend = list(orientation = ""h"", y = -0.25))"
+"0"," "
+"0","# Render the interactive version. In RStudio this opens in the Viewer pane;"
+"0","# if run via Rscript from a terminal, it opens in your default browser."
+"0","print(p_ly)"

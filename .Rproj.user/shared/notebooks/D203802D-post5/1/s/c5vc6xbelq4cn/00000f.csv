@@ -1,0 +1,2 @@
+"0","days_before_zero <- max_days * u^3"
+"0","days_before_zero <- rev(days_before_zero)  "

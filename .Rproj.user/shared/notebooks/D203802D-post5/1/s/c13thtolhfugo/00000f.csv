@@ -1,0 +1,7 @@
+"0","w_data <- build_datapoints()"
+"0"," "
+"0","w_fn <- function(i) {"
+"0","  idx <- (i %% 384)"
+"0","  idx[idx < 0] <- idx[idx < 0] + 384"
+"0","  w_data[idx + 1]"
+"0","}"
