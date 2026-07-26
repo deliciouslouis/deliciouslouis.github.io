@@ -3,7 +3,7 @@ title: "My Ultimate Conspiracy"
 output: html_document
 ---
 
-```{r setup, include=FALSE, warning=FALSE, message=FALSE}
+```{r setup, include=FALSE, warning=FALSE, message=FALSE, warn.conflicts=FALSE, queitly=TRUE}
 knitr::opts_chunk$set(fig.width = 12, fig.height = 6, echo = TRUE)
 ```
 I think the world really did in December of 2012. 
@@ -50,7 +50,7 @@ Peter Meyer, a collaborator of Terence McKenna was the one who converted this Ti
 ## 1
 What McKenna did now was look at consecutive pairs in that sequence: hexagram 1 → hexagram 2, hexagram 2 → hexagram 3, and so on around the full loop (hexagram 64 wraps back to hexagram 1). For each pair, he compared the two hexagrams line-by-line and count how many of the 6 lines change/flip (broken ↔ solid) when going from one to the next. That gives you a single small number (has to be somewhere between 1 and 6) for each of the 64 transitions. For example h[1] = 6 means when going from hexagram 1 to hexagram 2, all 6 lines flipped; h[2] = 2 means only 2 lines flipped going from hexagram 2 to hexagram 3, etc. This is this beginning section of the code (and I included the packages that I used):
 
-```{r}
+```{r, message=FALSE}
 library(ggplot2)
 library(dplyr)
 library(lubridate)
