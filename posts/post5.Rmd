@@ -6,7 +6,7 @@ output: html_document
 ```{r setup, include=FALSE, warning=FALSE, message=FALSE, warn.conflicts=FALSE, queitly=TRUE}
 knitr::opts_chunk$set(fig.width = 12, fig.height = 6, echo = TRUE)
 ```
-I think the world really did in December of 2012. 
+I think the world really did end in December of 2012. 
 
 In 1986, beat generation writer William S. Burroughs was commissioned by Omni (a science and science fiction magazine) to write The Ghost Lemurs of Madagascar. It follows Captain Mission, a 17th century pirate, and the colony that he forms on Madagascar called “Libertatia.” The members of Libertatia (a runaway priest, rogue pirates, sailors, and freed slaves) live harmoniously with the native population and with the local lemurs. The natives tell Captain Mission one day that there are giant lemurs living deep in the forest, and he goes to look for them. He comes across a stone structure, and in the structure’s basement finds some large animals unlike any that he has seen before. One approaches him and puts its hand on his face, and Captain Mission suddenly is able to remember things that have not yet happened, and that he should not be able to know. While he is gone, one of the members of the colony, Bradly Martin, shoots and kills a lemur. When Captain Mission returns and finds the dead lemur, he is enraged and tells Bradly Martin that he has until the next day to leave the colony (the appropriate punishment for killing a lemur according to the colony’s constitution). Then, Captain Mission goes to sleep. When he wakes up, he notices the lemur and Bradly Martin are gone, and realizes that Bradly Martin has taken the dead lemur to the native people and told them that they are killing the lemurs, effectively getting the natives to turn on Libertatia. Then, Burroughs says this: 
 
@@ -94,7 +94,7 @@ idiv <- function(a, b) trunc(a / b)
 ```
 
 ## 5
-Here is where we build the datapoints and turn the original 64 numbers into the 384 and then turn it fractal. We want it to have the same shape at whatever scale we set. Basically, we're doing the same simply operation three times at three different elvels, and then adding them together. The first part looks directly at h near position k, one entry per hexagram transition. The second part looks at h near position k/3, and dividing by 3 collapses three of the 384 output-positions onto one original h positions, making a coarser view. The third part looks at h near position k/6, matching the full 64->384 expansion ratio. Each part multiplies its bracketed difference of h values by an alternating sign (from our exp_minus_one) that flips at a different rate (every 32, 96 or 192 steps). This is waht mixes "fine detail," "medium detail," and coarse detial from the same underlying 64 numbers into every single one of the 384 outputs. This is what gives the eventual wave its fractal texture even before the explcit fractal-summing step. 
+Here is where we build the data points and turn the original 64 numbers into the 384 and then turn it fractal. We want it to have the same shape at whatever scale we set. Basically, we're doing the same simple operation three times at three different levels, and then adding them together. The first part looks directly at h near position k, one entry per hexagram transition. The second part looks at h near position k/3, and dividing by 3 collapses three of the 384 output-positions onto one original h positions, making a coarser view. The third part looks at h near position k/6, matching the full 64->384 expansion ratio. Each part multiplies its bracketed difference of h values by an alternating sign (from our exp_minus_one) that flips at a different rate (every 32, 96 or 192 steps). This is what mixes "fine detail," "medium detail," and coarse detail from the same underlying 64 numbers into every single one of the 384 outputs. This is what gives the eventual wave its fractal texture even before the explicit fractal-summing step. 
 
 ```{r}
 build_datapoints <- function() {
@@ -123,8 +123,8 @@ build_datapoints <- function() {
 ```
 
 ## 6 
-This is a second, structurally similar three-scale combination, but built around 9 - h - h instead of a difference. It's a second, distinct arithmetic feature the mathematician Matthew Watkins found was necessary to make the 384-point expansion actually reproduce McKenna's original resutls... so I included it too. Also, both terms get their absolute value taken and summed. Taking the absolute value is important because it guarantees every output is non-negative... which will be required for later for the whole fractal-sum machinery to be mathematically guaranteed to converge.
- This part runs the whole function once and stores the actual 384 numbers, and then extends w to a function w19) such that w1(i) = w(i mod 384). it's the same wrap around idea as mod_64(), just at the 384 scale. 
+This is a second, structurally similar three-scale combination, but built around 9 - h - h instead of a difference. It's a second, distinct arithmetic feature the mathematician Matthew Watkins found was necessary to make the 384-point expansion actually reproduce McKenna's original results... so I included it too. Also, both terms get their absolute value taken and summed. Taking the absolute value is important because it guarantees every output is non-negative... which will be required for later for the whole fractal-sum machinery to be mathematically guaranteed to converge.
+This part runs the whole function once and stores the actual 384 numbers, and then extends w to a function w(9) such that w1(i) = w(i mod 384). it's the same wrap around idea as mod_64(), just at the 384 scale. 
 
 ```{r}
 w_data <- build_datapoints()
@@ -184,7 +184,7 @@ zero_date <- as.POSIXct("2012-12-21 06:00:00", tz = "UTC")
 ```
 
 ## 10
-This part is to calculate for us how many days there are between January 1, 1990 and our zero date (December 21, 2012) which will serve as the full spain we want to plot. n_pts also gives us how many sample points to generate across this span, I just chose 800 because it seemed to not big and not too small. Then, u creates 800 evenly-spaced numbers between 0 and 1. U isn't a date (yet) it's just a neutral "position" variable for now. 
+This part is to calculate for us how many days there are between January 1, 1990 and our zero date (December 21, 2012) which will serve as the full span we want to plot. n_pts also gives us how many sample points to generate across this span, I just chose 800 because it seemed to not big and not too small. Then, u creates 800 evenly-spaced numbers between 0 and 1. U isn't a date (yet) it's just a neutral "position" variable for now. 
 
 ```{r}
 max_days <- as.numeric(difftime(zero_date, as.POSIXct("1990-01-01", tz = "UTC"), units = "days"))
@@ -201,7 +201,7 @@ days_before_zero <- rev(days_before_zero)
 ```
 
 ## 12
-This part convers each number into an actual calendar date by subtracting that many days from December 21, 2012, and years_real converts each full date into a decimal year (for example, 1996-03-14 gets turned into 1996.20), just so that it's easy to plot nicely on our continuous numeric x axis... and we can put it all together.... I'll show the plot at the end of this post, you will understand why soon. 
+This part converts each number into an actual calendar date by subtracting that many days from December 21, 2012, and years_real converts each full date into a decimal year (for example, 1996-03-14 gets turned into 1996.20), just so that it's easy to plot nicely on our continuous numeric x axis... and we can put it all together.... I'll show the plot at the end of this post, you will understand why soon. 
 
 ```{r, warning=FALSE}
 dates_real <- zero_date - ddays(days_before_zero)
@@ -210,7 +210,7 @@ years_real <- decimal_date(dates_real)
 novelty_real_raw <- sapply(days_before_zero, t_fn)
 ```
  
-Now that Terence McKenna's origianl timewave zero leading up to 2012 has been plotted, we can continue on. 
+Now that Terence McKenna's original timewave zero leading up to 2012 has been plotted, we can continue on. 
 
 French philosopher Gilles Deleuze published Difference and Repetition in 1968. In this project, Deleuze’s mission was to overthrow the “tyranny of identity” and establish difference as the primary generative engine of reality. Under a Deleuzian framework, traditional physics treats time as a series of identical, mechanical repetitions (clock seconds that are equivalent to each other). But Deleuze argues that true repetition is actually an intensive, internal force that produces radical, unrepeatable newness. This takes us back to Claude Shannon and information theory. When Shannon quantifies information based on "surprise," he is translating Deleuze’s concept of intensive difference into mathematics. A stagnant eon where nothing happens is trapped in what Deleuze calls "generality" (the sterile repetition of the identical), which produces zero true difference and thus zero information bits. Conversely, a single second packed with a billion unpredictable transformations is a localized explosion of pure difference. 
 Difference should not be seen as secondary to repetition, because difference is actually what produces identity. A perfect repetition or loop is not ideal because it does not produce novelty, the difference is what moves you forward. 
