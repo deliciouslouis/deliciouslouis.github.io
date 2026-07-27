@@ -3,7 +3,7 @@
     "path": "~/Downloads/deliciouslouis.github.io/posts/post5.Rmd",
     "project_path": "posts/post5.Rmd",
     "type": "r_markdown",
-    "hash": "3888760294",
+    "hash": "3299332113",
     "contents": "",
     "dirty": false,
     "created": 1784174262351.0,
@@ -12,16 +12,16 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "126,0",
-        "scrollLine": "114",
+        "cursorPosition": "10,32",
+        "scrollLine": "13",
         "last_setup_crc32": "595dead54fc7a999"
     },
     "folds": "",
-    "lastKnownWriteTime": 1785131489,
+    "lastKnownWriteTime": 1785131656,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1785131489143,
+    "last_content_update": 1785131656720,
     "read_only": false,
     "read_only_alternatives": []
 }
